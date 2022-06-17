@@ -1,0 +1,5140 @@
+fileFormatVersion: 2
+guid: afa39ebcde307b54c8ee4b0be93ef00b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mata Winni poo_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 768
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b734d4fbb6fbf9e47b84ff82b6d5566b
+      internalID: 197329212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 768
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa72a8bb690a84897ed77683a2cd4c
+      internalID: 1286575598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 768
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd985a68ac09340b8785505a751d90
+      internalID: 429955990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 768
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9649a1900c1bd49aa8f942b02ce989
+      internalID: 488702229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 768
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7d5ffc14b90a9429a1908f0f963a72
+      internalID: -677160544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 768
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b7494c714852d4abaf3ba4dfe9df4a
+      internalID: 166527826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 768
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a782aa74760848b206dae93ee8a71
+      internalID: 1022569525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 768
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6aef45e3147ef478a33b4b75809af6
+      internalID: -884089339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac4f65c644cd3479c37d5ad8ca84de
+      internalID: -2035346542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 768
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb63f10fa08cc446b70319509620fe9
+      internalID: -1219600199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 768
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d586c5988f8524dbef0a2978d13778
+      internalID: 1044340757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 768
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099095df887bf1c46a7f52e62e2e5b41
+      internalID: 1092200740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 768
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955c8fb269340245bf19968c7531baf
+      internalID: -2117004790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 768
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af872ab9e4d15647bed2ef90aaae106
+      internalID: -1468297651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 733
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd96916aa42b0a4bb2a7551aa1e3815
+      internalID: 186877910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 733
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750151e1018259d45bbdae3010002415
+      internalID: -863615485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 733
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea8abfd671895049a5d15e02516f8a7
+      internalID: 1240732005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 733
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ced3486fa2ef46938dbd5c56572f8
+      internalID: 1130849925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 733
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddc303d76390cd4585e83660ba788b8
+      internalID: 1420198863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 733
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9064e88ddba511943bec6cb75ffc210a
+      internalID: -889832406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 733
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac51e51391aeff49a06ba7f626225ba
+      internalID: -1882791510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 733
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783fc1834429b54cbe8288b5bbda1e5
+      internalID: 1127213061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 733
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e90ea62124c876498b8a01894bdd64d
+      internalID: 1710052412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 733
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d110b03600da322419245541876d2f35
+      internalID: 1507450204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 733
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b157c8f35d9b46b4082cfbdd6726d829
+      internalID: -1915689620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 698
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a963031b8257af459b83736c073c09f
+      internalID: 902509608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 698
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c0516ddba46c4b8db07e03bb5bcea
+      internalID: 570386698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 698
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b1c7fa0e7728a4a95a10f63a355e8c
+      internalID: 1526875014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 698
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab3b001c384dd49985b8afb7c33743
+      internalID: 864381911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 698
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cd252efcb6e2b41a7208f05fb28bc8
+      internalID: -1816387358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 698
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addc1e08d8206e40b1f62365c226086
+      internalID: -1917884699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 698
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa48a732bb6b0a440a3664ff188d960d
+      internalID: -1088946144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 698
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b694324bbbbe3424d87e2968fd551cda
+      internalID: 191937130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 698
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f73045ff3b78a4580b2b4a5b7eae91
+      internalID: -411431735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 698
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ffcacc5f1cae1429f98a561db63201
+      internalID: 1820622030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 698
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b741c184d05e049b21aa01d79cae8c
+      internalID: 457643444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 698
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdea652cd98fa14cb708672976de96f
+      internalID: -1954952534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 698
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c58298904ff84386d4b10e9110f5f
+      internalID: 853861956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 698
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a2c371b2e49044fb40ced769a52a57
+      internalID: -179813366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 664
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c045182288fd89c4ab9f054543587524
+      internalID: -36001134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 664
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c415d3b47ff78429180c0bc5e0ffb8
+      internalID: 11176043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 664
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee049ac82f87541b8648549b1506c9
+      internalID: 723595686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 664
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d72277b2fdea45916dac73095bc9d
+      internalID: -2129285127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 664
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0cb722c0303ba44846ff915d3c86df
+      internalID: 1748780572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 664
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bea7bca815be042ae40f7416e3ee99
+      internalID: 1375697676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 664
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64055eddf374eee45b322739691b4bfd
+      internalID: 1893134782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 664
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b58c269b85aa54b9ff1896e8aa8597
+      internalID: 242850681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 633
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deea8a9034c0d1458b2f2319057d200
+      internalID: 1748662248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 633
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdab1a8bdcd79849a82eb9a9fb3383f
+      internalID: 271938964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 633
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e2303b292147345a8ba35787810a40
+      internalID: -486058305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 633
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c8b1264c7bdee40a8c0a6c294ab5ba
+      internalID: 37614488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_51
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 633
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cd103046e278145b617374ac3165b3
+      internalID: 739522981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 633
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7628ac533c1fa064384383f7f2b2881f
+      internalID: 290514288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 609
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ad133940697464caba6a78a5ca52a7
+      internalID: -560678182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_54
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 609
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b26a7a7d2d5e48aba4bae34141a25
+      internalID: 1328987019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 609
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eeeaab952da7c49b02160d9133b645
+      internalID: 66439439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 609
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfe294a25f357a4396fa56c5a040351
+      internalID: 579130333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 609
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6265822f5576b48a87f6669e753e8c
+      internalID: -1532022055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 609
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536451cac7190e84c9278ae82cacbe4b
+      internalID: 14631731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 609
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223b5c399f495e4b9b0f746794886eb
+      internalID: -630298181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 609
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50749f145c8927542b12ee5d7c85ce7a
+      internalID: 914197513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_61
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 609
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25498a564654843b789e7e737d6ebc
+      internalID: 1831514953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_62
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 609
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37211e904ba6d544a88b19ab7ca3c73d
+      internalID: -1289080210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_63
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 609
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325559a742ba516478ab7ef7f0967d36
+      internalID: 708430351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_64
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 609
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e7868dfbecb2e4299600e7f51197a2
+      internalID: 2056980528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 609
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5afa54277377a344acc21ea947bac55
+      internalID: 1928963577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_66
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 609
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77edf163a1b5c834b975b8b9bffee6f4
+      internalID: 649586037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_67
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 583
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d1ed7a1257b941984d2bcc799ec25
+      internalID: -1402711008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 583
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15278f5b6fdfbe4e9700c1bcbb18df8
+      internalID: -133274947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 583
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8858f2cdbff4ab40ab4d204e62d37e5
+      internalID: 802579341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_70
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 583
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110efe5e63c6c194a8459507a139efc8
+      internalID: 1637176507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_71
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 506
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79002b05d7a4096489c22cdcac0f9581
+      internalID: -110864188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_72
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 583
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01e83c641c20a49966259f2f71df24
+      internalID: -1078290427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_73
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 583
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996d90acd8f214042973eed74e358b4f
+      internalID: -719508842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 557
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797786ec54bd3424d9fcba70b24cf7b8
+      internalID: -1617014748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_75
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 557
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1248cbf6961ed648bf5c00bc38dd467
+      internalID: -1655211239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_76
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 557
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa154a40ff2ce9647be8d3c28f1e371c
+      internalID: -537697305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 557
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379ab7ca4509f443b66532f569c6edd
+      internalID: -1698939289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 557
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971cc6e9c0caf54eb27280cc4f3eded
+      internalID: 1089624553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_79
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 557
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b40cde701062504aaf0f152243499c1
+      internalID: 646689678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_80
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 557
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e235984cc0d5834eab96d31d3332315
+      internalID: 283412333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 532
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac2c4ebac4517b47ad1eeb0245ed6d8
+      internalID: 1283853762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 532
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2997c39c9a18f5b4595ff32b0b9de32f
+      internalID: -1150732806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 532
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef561d28a7a5948b6006615c73b32d
+      internalID: 2065422314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_84
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 532
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbfbabc4371a14f80c677167efabb7
+      internalID: 1934301812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 532
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1de41c0e7cc2d44f86e8c8eb1f3dfb1
+      internalID: 659268821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 532
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec96625dd13564a8eb0aa06b2891c6
+      internalID: -992429454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 532
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e722cd799a6c4282f31b31acda3f1
+      internalID: 126162205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 532
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c324548295368d44da49e12a4a57f3eb
+      internalID: -914455832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_89
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 492
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365c45a7c288b3499989ba71e14dff0
+      internalID: -781910612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_90
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 492
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e58d96bff6ff543b4412b73c4a58e9
+      internalID: -1312472036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_91
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 492
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eaddc25e00e5547b0651a753842cef
+      internalID: 779865447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 492
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7917088f9d7354aac2d16b045c0bf2
+      internalID: 843372921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 492
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409df6434d2c8354c9c757d721608182
+      internalID: -242514722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_94
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 492
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c894bfcdb76c54f8b7292feacd8391
+      internalID: -765466827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 492
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988253b017dce6c489912259d5cddabe
+      internalID: -900538143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_96
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 492
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda384a015d05894999fc9bcae3cc374
+      internalID: 1750416201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_97
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 492
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13231648a8f3c5a49a5462bf3df438de
+      internalID: 831408233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_98
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 492
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4745f0e326ea4ea866fb4dd29c2bc
+      internalID: -1367979196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_99
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 492
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a581d4e3c6bef984b827f24789b0dde9
+      internalID: -1221936239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_100
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 492
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458f70e2a06b2c4f9fc1db30b9a4e22
+      internalID: 1386944381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_101
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 492
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64da8c22fc3500444999060982f2b127
+      internalID: -390711763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_102
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 492
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce83d6d0a861f4b9159017c5cecbae
+      internalID: 912657477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_103
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 492
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb68eb316815443a4a4d5e410521ef
+      internalID: 81474020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_104
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 492
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1173f1b87d90048ae5fbfabd8a277c
+      internalID: -505589993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 453
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999f394c5e68a074f8fbd31dd06202a6
+      internalID: -1048686482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_106
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 453
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52eb9f3374157408ceec0f4ffae061
+      internalID: 1862140400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_107
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 453
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e228c99aac4144aaa9a8dc255f7bd7
+      internalID: -920110765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_108
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 453
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294aaa0155a6b1e4a86ef543fa6f7b51
+      internalID: 931475914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_109
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 453
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3079f1c0e2808a4e90335c70fe38556
+      internalID: -1177656219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_110
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 453
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea19dd9214dc1842a668c0967bad351
+      internalID: 750888253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 414
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc25b1996f92cba4d9ba49511280e801
+      internalID: -153123182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_112
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 414
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0033e79deb577114e8466a5b68b8888b
+      internalID: 240269710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_113
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 414
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10b3ac3759c8342b083b4bf9600ef9
+      internalID: -1787700967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_114
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 414
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6366097c08066c4b9416923fc2ffe3b
+      internalID: -1998815494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 414
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b663703c7a9fe4e9dd46caed6f77d5
+      internalID: 370048287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_116
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 414
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd70a34391e28b48a6773e049bcc46f
+      internalID: -2124310300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 377
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ac0512706dbb439ef838b4566cf65
+      internalID: 570601741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_118
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 377
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb4d2af8b75de4ca33ea6e6d096d18
+      internalID: 1927085156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_119
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 377
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f44a563715735b4daf498039a9e1a01
+      internalID: -2016443603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_120
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 377
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed292ff76a27ace48a23d94682d1c114
+      internalID: -1102002688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_121
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 377
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50a7ae3e47ca94da2fcc7df395e14d
+      internalID: 197817561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_122
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 377
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34dbed231f47f848999de2260488928
+      internalID: 270727380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_123
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 377
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b163edb82aff55478e9e8785b994fcd
+      internalID: 2135795491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_124
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 377
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c8adf7b41ac2440b0522bb58a72839
+      internalID: 1775377140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 377
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1a1467479ff044924f3a8e0971b60
+      internalID: -1774002939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_126
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 377
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc228876a012644e9780bb7482756c9
+      internalID: -864025245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_127
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 341
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88d1aca4a2c1cc49b14c148b0627fdb
+      internalID: 733044576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_128
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 341
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850b3ecb6a646247a553e4f4c28378e
+      internalID: 1798646422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_129
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 341
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26a9357eafc11542b1289d1f4535fbd
+      internalID: 1353838745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_130
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 341
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5910f5193c4c4b408b0ebfe65b686ae
+      internalID: -205909312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_131
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 341
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb863ee7e5eaab7429e4fbe5be34bdf8
+      internalID: 1192024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_132
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 341
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6361b8b710422418ba18494b6923ad
+      internalID: -1436738925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_133
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 341
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b1fc2de4d65d147a2fdedc39a7721c
+      internalID: -1826826720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_134
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 341
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8e130b8f8c8e4794d4971243f3529
+      internalID: 798667153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_135
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 341
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34bf9b2b08df684c9cfecd2f7767488
+      internalID: 1143393198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_136
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 341
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935f0f4f772c82d4ab08df736932e946
+      internalID: -2120106618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_137
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 341
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91cce7d3b994794c9e0fe1c9e3c8dcd
+      internalID: -585438944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_138
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 341
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0cd6f2e75eef64c889cda2045f752b
+      internalID: -919115390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_139
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 341
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3c45d10994624e9c054562ee4e371
+      internalID: -1781142263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_140
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 341
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250919b0aafca2a4cbd8ae336dc72a65
+      internalID: -537210662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_141
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afeccbc1fb53584e881bae4ce3e84a5
+      internalID: 822530646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_142
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 306
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebfdd44af4b9d49904fd79514bad6b
+      internalID: 681203773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_143
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9872d6f5b16b7b4ea04b43d8f4501b5
+      internalID: -1742083662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_144
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 306
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff8d81f231336429fed6fd3818f011
+      internalID: -1897058300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_145
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 306
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f274d6f97178d4196d5e644f9f91af
+      internalID: -242929001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_146
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a14893fe51aa41987442a827c13f9
+      internalID: -282998845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_147
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3f67db70dfa942a4e9cad3659a7ad
+      internalID: 1103855382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_148
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 268
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17e37d7d8392d4ab1fca4ad3f98f1c
+      internalID: 727043424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_149
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 268
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c785bdaadbe44d545bc6ce755f978267
+      internalID: -1605343587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_150
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 268
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1a6050b0d5f3489699cc3c7cc86f4
+      internalID: -1000805751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_151
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 268
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf201b5553555449a2462711a4bc7d
+      internalID: 405581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_152
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 268
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a391f13b19e8694a9cc942813cb386a
+      internalID: -1498021245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 268
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf6a2d0cf9b0d4688bf4dcb671be8f
+      internalID: -1391720438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_154
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 268
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78deb04cdea69649a25731b73a18adc
+      internalID: 1287585554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_155
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 232
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81285a9e4a124446a391ea9444b3689
+      internalID: -950966666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_156
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 232
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e2f481bb93f741a3d22b247edf421
+      internalID: 478473561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_157
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 232
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f1bf1c621e3ef418758c217eba6254
+      internalID: -321968751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_158
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 232
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c25fa2944b1047a1bbd314b56d974
+      internalID: 1475628998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_159
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 232
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc518995a15fa4a449cc8b646e022cb2
+      internalID: 122068327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_160
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 232
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa8ae6ac463fad4fba9780bd289f415
+      internalID: -807804180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_161
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 232
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32482066f6e40743a83c5539efb6551
+      internalID: 2055479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6383c572b91446b73d37f471ddabc
+      internalID: -470866366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 203
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa85d9208a4db4fb15070c8852cd54
+      internalID: 2085552206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_164
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 203
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03008469d77122f4daa431d3ba4b2616
+      internalID: -1871047905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_165
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 203
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17172efbefe4541bee0cf38fadfd62
+      internalID: -748980928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_166
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 203
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e097fe5bda1449a28ae2d15b340e9
+      internalID: 1051281878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_167
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 203
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865e7e4dd7984e4d89a3acf9e7d8bd0
+      internalID: -36867031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_168
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 203
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8326f40f00e7c64181ad5e53ef8b443
+      internalID: -1126414691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_169
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 203
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0196ec488e0a0439ca30d679950749
+      internalID: -607778344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_170
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 203
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046e6ff002dd4a4da802953a1464742
+      internalID: -1391863313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_171
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 203
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac23fe56bbbd04245a29a2bc09ebc922
+      internalID: -902860784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_172
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 203
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca49318e87703364cb7cc2fb4f6e6e4a
+      internalID: -162394020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_173
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 203
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7a591535ec32c42bf3192aacfac3d8
+      internalID: 181159102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_174
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 203
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c7b8d80d3bd6f42a03aa0f48a91a0c
+      internalID: -493793227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_175
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 203
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb510c03e926145ac1ea0eb0d4d1e6
+      internalID: 90081982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 203
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f74187d94a750447a08a0bb2fc04b84
+      internalID: 1363620840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af125adefb1ae94f8ff2c3a2d6072ec
+      internalID: 1527906031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_178
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 175
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711f292e043f1f43b6339d57f9f6711
+      internalID: -717179883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_179
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 175
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1896521df31de45a27ce30e70294af
+      internalID: -723295803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_180
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 175
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30450b3d3b016f4428f6e0e08ac63aac
+      internalID: -1062728858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_181
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 175
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4699346b8ccfd7645bba2edd48709dda
+      internalID: 1370835137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_182
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 175
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83502bed8875c648806862ceccad81c
+      internalID: -84793758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_183
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 175
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ddc099505e2e646ae73fa0d0f584c0
+      internalID: -1836218325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_184
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 148
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1937dc0b053dd344d8054931f03c9d5e
+      internalID: 57056987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_185
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975f4612c19a57d48ab8fd8376398a8e
+      internalID: -1985468402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_186
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 148
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663e870666d18a4692af318b167b7b0
+      internalID: -1256385032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_187
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 148
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b790ac0a0cd9724ea44675723bea56c
+      internalID: 10538323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_188
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 148
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5440eb0544a6aa4891a2077a44524b3
+      internalID: 1400371577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_189
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25882d8266974644beba582c1b2aa03
+      internalID: -987589383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_190
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06161eefbc0c54995537f03862b343
+      internalID: -498856624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_191
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b667f179bb7ca6243b0e0d9f76e2f72b
+      internalID: -1462217876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_192
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 122
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edad73ce1eb3534781776c30293b985
+      internalID: -287999529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_193
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 122
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c3cdeb40e98a458857dc0f2b940d5
+      internalID: 1607245544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_194
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 122
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a5ac950c02fc3409e063d0b1e078bf
+      internalID: -1926890258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_195
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 122
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628ef49bd1772c4b984ce3cb11e4698
+      internalID: -1268959663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_196
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 122
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029fcc680b79ce6479c6efbc3339e64d
+      internalID: 338948136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_197
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 122
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715dc8ffeec1274a8c1526e3acea7bd
+      internalID: -1234833655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_198
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 122
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4342429d5c76546b2ad9af894a50e9
+      internalID: 317151450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_199
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 122
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e0b2390315e0499d01680160c7f26
+      internalID: 2103435178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_200
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 122
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb23607bdf2f764ba001025ef49a373
+      internalID: 1536440838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_201
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 92
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b40f049efbb5954cb1c77c7b327674f
+      internalID: 45690231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_202
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 92
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb0f708d08c1a4cb9c78f76da3e8da
+      internalID: -661829230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 92
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbf6dd2da61e6f47a9ac205424f5ce7
+      internalID: -302059046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_204
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 92
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccedf9576dd2b4d9f330c5602782d5
+      internalID: 700036642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_205
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 92
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7140b0af0e22468aabd9c965027b8
+      internalID: -198475632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_206
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 92
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735d0756699de974f83cde9c438fd6eb
+      internalID: 642559370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_207
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 92
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54a3bf06f883e746b150b2c695750c8
+      internalID: 59963025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_208
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 92
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538dd4607223c0a47b26c445cddde4e3
+      internalID: -1547852855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_209
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 63
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93784cef15122b842bdefadd82413ec1
+      internalID: 2072123702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_210
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 63
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd20ab46632790541be4034010bc7bc6
+      internalID: -1625338287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_211
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 63
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ae91d254494641a79328388eae26c
+      internalID: -1911364846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_212
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 32
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0714dced630c4fa5ea6083c59e29f
+      internalID: -1552422869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_213
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 32
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa10d4dc03e72d4c8dd65f8e1c79e92
+      internalID: -2143433324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_214
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 32
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39dcc56ba4d02f4caa32298f2ef3c4d
+      internalID: -202215698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_215
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 4
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ccdff2a5337bd4c95cf145691db049
+      internalID: 1691865471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_216
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671a5c14cb160040be52dc09c45900a
+      internalID: -1325808023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_217
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b38a63c0a7fc47a7fa2dbee3dd75c
+      internalID: -1119560126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_218
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55fcdc5c6c103544a945a7d33af61b1
+      internalID: 194722343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_219
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f72260d843ec23499c4d28d34929856
+      internalID: 1715367435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_220
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887439913188df943a903116ac6419d4
+      internalID: 2044432934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_221
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15bd8babe7cc2b4cafd9c4a4946afc1
+      internalID: 1155940725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_222
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 4
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcadc4e570afce34c85639a146180f95
+      internalID: 341443132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_223
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8996af734f2d1dc46bc54de405d73566
+      internalID: 2037003826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_224
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a85cceaa6742c40b9ab1aa70ccaeb1
+      internalID: 459021958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_225
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 4
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1add75285d044dbc104b1736d4a62
+      internalID: -2056861283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mata Winni poo_226
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4000c5cb1691c7241aee45b7a3e79fde
+      internalID: -557335670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mata Winni poo_18: 1420198863
+      Mata Winni poo_40: 11176043
+      Mata Winni poo_87: 126162205
+      Mata Winni poo_12: -2117004790
+      Mata Winni poo_166: 1051281878
+      Mata Winni poo_30: -1917884699
+      Mata Winni poo_101: -390711763
+      Mata Winni poo_108: 931475914
+      Mata Winni poo_111: -153123182
+      Mata Winni poo_112: 240269710
+      Mata Winni poo_123: 2135795491
+      Mata Winni poo_116: -2124310300
+      Mata Winni poo_176: 1363620840
+      Mata Winni poo_223: 2037003826
+      Mata Winni poo_10: 1044340757
+      Mata Winni poo_49: -486058305
+      Mata Winni poo_193: 1607245544
+      Mata Winni poo_179: -723295803
+      Mata Winni poo_138: -919115390
+      Mata Winni poo_82: -1150732806
+      Mata Winni poo_73: -719508842
+      Mata Winni poo_37: 853861956
+      Mata Winni poo_39: -36001134
+      Mata Winni poo_117: 570601741
+      Mata Winni poo_124: 1775377140
+      Mata Winni poo_160: -807804180
+      Mata Winni poo_178: -717179883
+      Mata Winni poo_167: -36867031
+      Mata Winni poo_118: 1927085156
+      Mata Winni poo_24: -1915689620
+      Mata Winni poo_92: 843372921
+      Mata Winni poo_102: 912657477
+      Mata Winni poo_181: 1370835137
+      Mata Winni poo_48: 271938964
+      Mata Winni poo_50: 37614488
+      Mata Winni poo_155: -950966666
+      Mata Winni poo_113: -1787700967
+      Mata Winni poo_200: 1536440838
+      Mata Winni poo_107: -920110765
+      Mata Winni poo_212: -1552422869
+      Mata Winni poo_57: -1532022055
+      Mata Winni poo_19: -889832406
+      Mata Winni poo_68: -133274947
+      Mata Winni poo_22: 1710052412
+      Mata Winni poo_66: 649586037
+      Mata Winni poo_115: 370048287
+      Mata Winni poo_139: -1781142263
+      Mata Winni poo_161: 2055479
+      Mata Winni poo_5: 166527826
+      Mata Winni poo_126: -864025245
+      Mata Winni poo_43: 1748780572
+      Mata Winni poo_217: -1119560126
+      Mata Winni poo_214: -202215698
+      Mata Winni poo_164: -1871047905
+      Mata Winni poo_63: 708430351
+      Mata Winni poo_13: -1468297651
+      Mata Winni poo_129: 1353838745
+      Mata Winni poo_221: 1155940725
+      Mata Winni poo_130: -205909312
+      Mata Winni poo_184: 57056987
+      Mata Winni poo_47: 1748662248
+      Mata Winni poo_53: -560678182
+      Mata Winni poo_114: -1998815494
+      Mata Winni poo_58: 14631731
+      Mata Winni poo_31: -1088946144
+      Mata Winni poo_7: -884089339
+      Mata Winni poo_194: -1926890258
+      Mata Winni poo_80: 283412333
+      Mata Winni poo_136: -2120106618
+      Mata Winni poo_203: -302059046
+      Mata Winni poo_67: -1402711008
+      Mata Winni poo_120: -1102002688
+      Mata Winni poo_156: 478473561
+      Mata Winni poo_144: -1897058300
+      Mata Winni poo_132: -1436738925
+      Mata Winni poo_6: 1022569525
+      Mata Winni poo_222: 341443132
+      Mata Winni poo_122: 270727380
+      Mata Winni poo_185: -1985468402
+      Mata Winni poo_81: 1283853762
+      Mata Winni poo_99: -1221936239
+      Mata Winni poo_56: 579130333
+      Mata Winni poo_97: 831408233
+      Mata Winni poo_3: 488702229
+      Mata Winni poo_89: -781910612
+      Mata Winni poo_224: 459021958
+      Mata Winni poo_2: 429955990
+      Mata Winni poo_70: 1637176507
+      Mata Winni poo_21: 1127213061
+      Mata Winni poo_86: -992429454
+      Mata Winni poo_74: -1617014748
+      Mata Winni poo_195: -1268959663
+      Mata Winni poo_135: 1143393198
+      Mata Winni poo_225: -2056861283
+      Mata Winni poo_168: -1126414691
+      Mata Winni poo_20: -1882791510
+      Mata Winni poo_191: -1462217876
+      Mata Winni poo_199: 2103435178
+      Mata Winni poo_77: -1698939289
+      Mata Winni poo_150: -1000805751
+      Mata Winni poo_9: -1219600199
+      Mata Winni poo_175: 90081982
+      Mata Winni poo_84: 1934301812
+      Mata Winni poo_90: -1312472036
+      Mata Winni poo_147: 1103855382
+      Mata Winni poo_151: 405581
+      Mata Winni poo_60: 914197513
+      Mata Winni poo_187: 10538323
+      Mata Winni poo_8: -2035346542
+      Mata Winni poo_220: 2044432934
+      Mata Winni poo_210: -1625338287
+      Mata Winni poo_28: 864381911
+      Mata Winni poo_163: 2085552206
+      Mata Winni poo_140: -537210662
+      Mata Winni poo_202: -661829230
+      Mata Winni poo_27: 1526875014
+      Mata Winni poo_204: 700036642
+      Mata Winni poo_91: 779865447
+      Mata Winni poo_146: -282998845
+      Mata Winni poo_157: -321968751
+      Mata Winni poo_183: -1836218325
+      Mata Winni poo_198: 317151450
+      Mata Winni poo_83: 2065422314
+      Mata Winni poo_34: 1820622030
+      Mata Winni poo_226: -557335670
+      Mata Winni poo_55: 66439439
+      Mata Winni poo_59: -630298181
+      Mata Winni poo_72: -1078290427
+      Mata Winni poo_209: 2072123702
+      Mata Winni poo_188: 1400371577
+      Mata Winni poo_61: 1831514953
+      Mata Winni poo_88: -914455832
+      Mata Winni poo_52: 290514288
+      Mata Winni poo_71: -110864188
+      Mata Winni poo_142: 681203773
+      Mata Winni poo_182: -84793758
+      Mata Winni poo_11: 1092200740
+      Mata Winni poo_205: -198475632
+      Mata Winni poo_219: 1715367435
+      Mata Winni poo_159: 122068327
+      Mata Winni poo_162: -470866366
+      Mata Winni poo_165: -748980928
+      Mata Winni poo_94: -765466827
+      Mata Winni poo_180: -1062728858
+      Mata Winni poo_95: -900538143
+      Mata Winni poo_137: -585438944
+      Mata Winni poo_121: 197817561
+      Mata Winni poo_106: 1862140400
+      Mata Winni poo_42: -2129285127
+      Mata Winni poo_15: -863615485
+      Mata Winni poo_16: 1240732005
+      Mata Winni poo_76: -537697305
+      Mata Winni poo_78: 1089624553
+      Mata Winni poo_29: -1816387358
+      Mata Winni poo_131: 1192024
+      Mata Winni poo_51: 739522981
+      Mata Winni poo_197: -1234833655
+      Mata Winni poo_62: -1289080210
+      Mata Winni poo_143: -1742083662
+      Mata Winni poo_152: -1498021245
+      Mata Winni poo_158: 1475628998
+      Mata Winni poo_149: -1605343587
+      Mata Winni poo_17: 1130849925
+      Mata Winni poo_173: 181159102
+      Mata Winni poo_127: 733044576
+      Mata Winni poo_54: 1328987019
+      Mata Winni poo_46: 242850681
+      Mata Winni poo_45: 1893134782
+      Mata Winni poo_93: -242514722
+      Mata Winni poo_64: 2056980528
+      Mata Winni poo_69: 802579341
+      Mata Winni poo_109: -1177656219
+      Mata Winni poo_25: 902509608
+      Mata Winni poo_125: -1774002939
+      Mata Winni poo_79: 646689678
+      Mata Winni poo_41: 723595686
+      Mata Winni poo_145: -242929001
+      Mata Winni poo_215: 1691865471
+      Mata Winni poo_216: -1325808023
+      Mata Winni poo_26: 570386698
+      Mata Winni poo_36: -1954952534
+      Mata Winni poo_206: 642559370
+      Mata Winni poo_153: -1391720438
+      Mata Winni poo_192: -287999529
+      Mata Winni poo_177: 1527906031
+      Mata Winni poo_4: -677160544
+      Mata Winni poo_211: -1911364846
+      Mata Winni poo_44: 1375697676
+      Mata Winni poo_100: 1386944381
+      Mata Winni poo_189: -987589383
+      Mata Winni poo_65: 1928963577
+      Mata Winni poo_14: 186877910
+      Mata Winni poo_104: -505589993
+      Mata Winni poo_190: -498856624
+      Mata Winni poo_141: 822530646
+      Mata Winni poo_96: 1750416201
+      Mata Winni poo_32: 191937130
+      Mata Winni poo_207: 59963025
+      Mata Winni poo_169: -607778344
+      Mata Winni poo_35: 457643444
+      Mata Winni poo_218: 194722343
+      Mata Winni poo_23: 1507450204
+      Mata Winni poo_85: 659268821
+      Mata Winni poo_134: 798667153
+      Mata Winni poo_98: -1367979196
+      Mata Winni poo_174: -493793227
+      Mata Winni poo_154: 1287585554
+      Mata Winni poo_75: -1655211239
+      Mata Winni poo_133: -1826826720
+      Mata Winni poo_171: -902860784
+      Mata Winni poo_103: 81474020
+      Mata Winni poo_105: -1048686482
+      Mata Winni poo_33: -411431735
+      Mata Winni poo_186: -1256385032
+      Mata Winni poo_213: -2143433324
+      Mata Winni poo_38: -179813366
+      Mata Winni poo_0: 197329212
+      Mata Winni poo_148: 727043424
+      Mata Winni poo_208: -1547852855
+      Mata Winni poo_128: 1798646422
+      Mata Winni poo_170: -1391863313
+      Mata Winni poo_110: 750888253
+      Mata Winni poo_196: 338948136
+      Mata Winni poo_119: -2016443603
+      Mata Winni poo_172: -162394020
+      Mata Winni poo_201: 45690231
+      Mata Winni poo_1: 1286575598
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

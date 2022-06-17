@@ -9,8 +9,11 @@ public class Spawn : MonoBehaviour
     public float timeSpawn = 1;
     public float repiteSpawn = 3;
 
-    public Transform puntosSpawn;
-    public Transform puntosSpawn1;
+    public Transform puntosSpawnX;
+    public Transform puntosSpawnX2;
+
+    public Transform puntosSpawnY;
+    public Transform puntosSpawnY2;
     
 
 
@@ -25,19 +28,14 @@ public class Spawn : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-
     public void SpawnEnemys()
     {
 
         Vector3 spawnPosition = new Vector3(0, 0, 0);
 
-        spawnPosition = new Vector3(Random.Range(puntosSpawn.position.x, puntosSpawn1.position.x), 0);
+        spawnPosition = new Vector3(Random.Range(puntosSpawnX.position.x, puntosSpawnX2.position.x), Random.Range(puntosSpawnY.position.y,puntosSpawnY2.position.y),0);
+
+        GameObject enemy = Instantiate(enemys[Random.Range(0,enemys.Length)], spawnPosition, gameObject.transform.rotation);
 
     }
 }
