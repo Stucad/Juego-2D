@@ -122,10 +122,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidadMovimiento: 1.5
   puntosMovimiento:
-  - {fileID: 7362507586631778254, guid: 627861abfa18473418f9ffcf1a5b9c9f, type: 3}
-  - {fileID: 6546998217739612069, guid: 35534b6ed951b9643b97f74c1d5bfedf, type: 3}
-  - {fileID: 8714339488871177215, guid: 20cb5168043b634478ee44380d651b54, type: 3}
-  - {fileID: 1155243242722557603, guid: 00b4e7222376f3840b0104fcdd566a59, type: 3}
+  - {fileID: 4330021253686495040, guid: 627861abfa18473418f9ffcf1a5b9c9f, type: 3}
+  - {fileID: 7661048325110304256, guid: 35534b6ed951b9643b97f74c1d5bfedf, type: 3}
+  - {fileID: 285312064876650429, guid: 20cb5168043b634478ee44380d651b54, type: 3}
+  - {fileID: 6620529344277446441, guid: 00b4e7222376f3840b0104fcdd566a59, type: 3}
   distanciaMinima: 0
 --- !u!114 &-2324901318097895045
 MonoBehaviour:

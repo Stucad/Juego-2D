@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6089913228841188744}
   - component: {fileID: 6089913228841188740}
   - component: {fileID: 6089913228841188741}
+  - component: {fileID: 3452035753947063365}
   m_Layer: 0
   m_Name: Link
   m_TagString: Untagged
@@ -122,10 +123,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidadMovimiento: 0.5
   puntosMovimiento:
-  - {fileID: 1155243242722557603, guid: 00b4e7222376f3840b0104fcdd566a59, type: 3}
-  - {fileID: 8714339488871177215, guid: 20cb5168043b634478ee44380d651b54, type: 3}
-  - {fileID: 6546998217739612069, guid: 35534b6ed951b9643b97f74c1d5bfedf, type: 3}
-  - {fileID: 7362507586631778254, guid: 627861abfa18473418f9ffcf1a5b9c9f, type: 3}
+  - {fileID: 4330021253686495040, guid: 627861abfa18473418f9ffcf1a5b9c9f, type: 3}
+  - {fileID: 7661048325110304256, guid: 35534b6ed951b9643b97f74c1d5bfedf, type: 3}
+  - {fileID: 285312064876650429, guid: 20cb5168043b634478ee44380d651b54, type: 3}
+  - {fileID: 6620529344277446441, guid: 00b4e7222376f3840b0104fcdd566a59, type: 3}
   distanciaMinima: 0.2
 --- !u!114 &6089913228841188740
 MonoBehaviour:
@@ -165,3 +166,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.18, y: 0.23}
   m_EdgeRadius: 0
+--- !u!114 &3452035753947063365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6089913228841188751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf02bc16a6299ba4aba73fe94d0e5b5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  source: {fileID: 5194677745548305761, guid: e0afbf5d0e5e01a42b6fc8c702e78296, type: 3}
+  audioFX: {fileID: 8300000, guid: 32519d0cc3d34b34bb356fee54ee2295, type: 3}
+  volumen: 5
