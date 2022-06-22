@@ -1,0 +1,1466 @@
+fileFormatVersion: 2
+guid: e97fbbc8f9d88e844ba972d85404b8b0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hello Kitty_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1724
+        width: 242
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f76e2e1028f1c247a59a6bd5e1ce78b
+      internalID: -1844422965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1724
+        width: 242
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865d6f9eb75dd94ab58c868a9bcfeaf
+      internalID: 1586850328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1724
+        width: 242
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f680f512de3c62e46a3ccc5346d14fee
+      internalID: 1501563636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1763
+        width: 1925
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c21e29ae676242a38aa6a0d165e20
+      internalID: -402978823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_4
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1724
+        width: 242
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3685123a56e35f48ad16bf8696306f4
+      internalID: 1175862070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_5
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1724
+        width: 242
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb2ac1072cb2eb44850d243c1a25512
+      internalID: 1908040030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_6
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 1724
+        width: 242
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1c2e4596e399458c8f42bd50ebe48
+      internalID: 2073055629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_7
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 1724
+        width: 242
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b3622d0ede7f840ba9553e5472a5fc
+      internalID: -1859073664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_8
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1698
+        width: 1925
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac063af3b856d1428ca1c732b3170ca
+      internalID: 375507179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1356
+        width: 242
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29124c5839b48494188419300b9e176c
+      internalID: 750210532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1356
+        width: 242
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646262f3b4250e44a883505eb28187c
+      internalID: -556751927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1356
+        width: 242
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5c866cfe8ca34c88b1c90c4e6cce0
+      internalID: -1562532958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_12
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1147
+        width: 239
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2acfc534f43e064387572a761edfb61
+      internalID: -1121199117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_13
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1147
+        width: 239
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4497a96b344642862f78618a6301b
+      internalID: -1770979776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_14
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1236
+        width: 191
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b2ea4d1d5322642963826fb683bee9
+      internalID: -663753778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_15
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 1236
+        width: 189
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744ec7adaa8a17249af12c33fe494de7
+      internalID: 622584619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_16
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1354
+        width: 242
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20249dbedc67f244a8dda7de21658603
+      internalID: 569761791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_17
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1354
+        width: 242
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993a2e029d3aaf94f85766718edc84b2
+      internalID: 1724916591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_18
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 1356
+        width: 242
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf505eb4dae1f42ae3c3a4a45596c6
+      internalID: 251116416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 988
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2bc61d1e7429a4b88497581d0a9cd7
+      internalID: 1471319377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 986
+        width: 240
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6869c0ca9ce649b6f73652d2dbb28
+      internalID: 2106140903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_21
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 988
+        width: 242
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173acf435ad51e84dbf55f9ee0fbfd4c
+      internalID: -1492633649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_22
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1238
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db581160b51123a4bbe7ced75cbf9b02
+      internalID: 1966138408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_23
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 986
+        width: 242
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669fe5c6453b914ba66c83772d188bd
+      internalID: 975832532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_24
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 986
+        width: 242
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2fc269d5c723448b50c79e1ece71ce
+      internalID: 1381741309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_25
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 988
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c91e4f19914b0f4d809dd708b0c81cc
+      internalID: -1024362093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_26
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 779
+        width: 239
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742d97a1afe91c46bbfaef83b628305
+      internalID: 1652375698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_27
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 779
+        width: 239
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b4bf71542be3245b3aa599739dc981
+      internalID: 378686622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_28
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 988
+        width: 161
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01632a0133e0ea2419dc1820e47b1032
+      internalID: -637251888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_29
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 988
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d0d97d831d8f40a1e1dc0fefc55bc
+      internalID: 2007562059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_30
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 990
+        width: 189
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd99920e59de5e47bf78100e9ae9c55
+      internalID: -912040650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 620
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758931d21665244890cd9ed09947c1d
+      internalID: -1603007574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_32
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 620
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47990efbae3b5e144992f595bf24be0d
+      internalID: -1797923007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_33
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 744
+        width: 183
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240bf5f26013dae42bf2e17ecb832fdb
+      internalID: 455042106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_34
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 894
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0c8f2aa08ca04b92b5cfce6cc24aa
+      internalID: -1657516880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_35
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 894
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b446964eaff55924b94a3da3f984a6f5
+      internalID: -1717373763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_36
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 620
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cbf1879af0e1041b6ae9d18d2a01f2
+      internalID: 340830059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_37
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 620
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6ce927281c8041828e7284a9b48e6
+      internalID: 1047100012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_38
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 618
+        width: 240
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522bdefd8d7550f488c49265d400cad1
+      internalID: -1899741372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_39
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 740
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3542a531e46ead4586a1f1bbe59e7da
+      internalID: 1605833618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_40
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 794
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4979aafdc767aa345868b9986404d484
+      internalID: 1543926975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_41
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 781
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b25f80dbd6fdf142a2ad2bf6562847f
+      internalID: -986138523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_42
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 618
+        width: 242
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d92878841c7704bb437e7443303e5b
+      internalID: 1455765681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_43
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 411
+        width: 239
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49a14f68b2e5de48b5c162d545cebc8
+      internalID: -615649209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_44
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 411
+        width: 239
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5611f17624a2b6409be1fd57203bcf0
+      internalID: 1527192534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_45
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 492
+        width: 148
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41e0d8cf6bade4aa95ad2592e84341
+      internalID: -1832936887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_46
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 492
+        width: 164
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61263cab52098845bb017e8ef6549c9
+      internalID: 1555538030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_47
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 614
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c73bf1c14cb20419b04d8f2ac19824
+      internalID: 1922037062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_48
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 614
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b4ae9d03d140c4e9c3442075c3122f
+      internalID: 190045502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_49
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 614
+        width: 127
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c061260f722af74ab797bab1ecbf194
+      internalID: 1739401852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 250
+        width: 242
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdab27f779974640abd05714d8097c6
+      internalID: -869449213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_51
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 250
+        width: 242
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f30c974c50974c9fabd8e6e3997de
+      internalID: -1624265457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_52
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 44
+        width: 239
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abb4d85499722746a6093cce7762961
+      internalID: 1993723711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_53
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 207
+        width: 560
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c569b32ce26d24d9f78c1578b4861e
+      internalID: 455636055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_54
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 137
+        width: 166
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8736f50bb1c4f3f41a777b5289d8b2bb
+      internalID: 2041255638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_55
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 250
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe68374273318a4fa0d7f3247cf629a
+      internalID: 1997800411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_56
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 250
+        width: 242
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ce974fa2a1eee4fbec997267c9d3ea
+      internalID: -507676759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_57
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 250
+        width: 242
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f2769daf1b314380bfc4ef7cc73b3
+      internalID: -217035735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 46
+        width: 559
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab226a28ab7914db03481640a9cafc
+      internalID: 450362705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hello Kitty_59
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 37
+        width: 571
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78204c3f17ad304b8132bbe14abbd3a
+      internalID: -251995136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hello Kitty_19: 1471319377
+      Hello Kitty_37: 1047100012
+      Hello Kitty_57: -217035735
+      Hello Kitty_42: 1455765681
+      Hello Kitty_56: -507676759
+      Hello Kitty_50: -869449213
+      Hello Kitty_6: 2073055629
+      Hello Kitty_52: 1993723711
+      Hello Kitty_54: 2041255638
+      Hello Kitty_47: 1922037062
+      Hello Kitty_20: 2106140903
+      Hello Kitty_51: -1624265457
+      Hello Kitty_8: 375507179
+      Hello Kitty_14: -663753778
+      Hello Kitty_28: -637251888
+      Hello Kitty_23: 975832532
+      Hello Kitty_35: -1717373763
+      Hello Kitty_2: 1501563636
+      Hello Kitty_32: -1797923007
+      Hello Kitty_15: 622584619
+      Hello Kitty_31: -1603007574
+      Hello Kitty_18: 251116416
+      Hello Kitty_46: 1555538030
+      Hello Kitty_17: 1724916591
+      Hello Kitty_58: 450362705
+      Hello Kitty_1: 1586850328
+      Hello Kitty_59: -251995136
+      Hello Kitty_40: 1543926975
+      Hello Kitty_11: -1562532958
+      Hello Kitty_55: 1997800411
+      Hello Kitty_49: 1739401852
+      Hello Kitty_43: -615649209
+      Hello Kitty_25: -1024362093
+      Hello Kitty_30: -912040650
+      Hello Kitty_5: 1908040030
+      Hello Kitty_26: 1652375698
+      Hello Kitty_21: -1492633649
+      Hello Kitty_33: 455042106
+      Hello Kitty_45: -1832936887
+      Hello Kitty_29: 2007562059
+      Hello Kitty_22: 1966138408
+      Hello Kitty_34: -1657516880
+      Hello Kitty_4: 1175862070
+      Hello Kitty_3: -402978823
+      Hello Kitty_10: -556751927
+      Hello Kitty_48: 190045502
+      Hello Kitty_41: -986138523
+      Hello Kitty_44: 1527192534
+      Hello Kitty_27: 378686622
+      Hello Kitty_0: -1844422965
+      Hello Kitty_38: -1899741372
+      Hello Kitty_39: 1605833618
+      Hello Kitty_24: 1381741309
+      Hello Kitty_36: 340830059
+      Hello Kitty_53: 455636055
+      Hello Kitty_9: 750210532
+      Hello Kitty_7: -1859073664
+      Hello Kitty_13: -1770979776
+      Hello Kitty_12: -1121199117
+      Hello Kitty_16: 569761791
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

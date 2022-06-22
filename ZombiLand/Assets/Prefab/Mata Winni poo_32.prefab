@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: 4421633454747986915}
   - component: {fileID: 2813169020902854384}
   - component: {fileID: 8581361465708902381}
+  - component: {fileID: 728528277186188538}
   m_Layer: 0
   m_Name: Mata Winni poo_32
-  m_TagString: Untagged
+  m_TagString: 'Human '
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -149,7 +150,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -165,3 +166,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.12666667, y: 0.21333334}
   m_EdgeRadius: 0
+--- !u!114 &728528277186188538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7829010199480882184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf02bc16a6299ba4aba73fe94d0e5b5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  source: {fileID: -947553019139760735, guid: 7b10a395c979a6249b5428a247b95081, type: 3}
+  audioFX: {fileID: 8300000, guid: 2db79b092dd016040a6182fc8dc8d79e, type: 3}
+  volumen: 1
