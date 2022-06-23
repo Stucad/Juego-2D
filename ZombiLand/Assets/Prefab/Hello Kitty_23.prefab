@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3370447867685642465}
   - component: {fileID: 2133270465233462453}
   - component: {fileID: -888782566937294207}
+  - component: {fileID: 1811612767414567455}
   m_Layer: 0
   m_Name: Hello Kitty_23
   m_TagString: enemy
@@ -181,3 +182,16 @@ MonoBehaviour:
   source: {fileID: -2818496009182529926, guid: cf12aac7adb250a4ea86c20f913362f4, type: 3}
   audioFX: {fileID: 8300000, guid: ad735981564996b4689aa2f609b2a25e, type: 3}
   volumen: 500
+--- !u!114 &1811612767414567455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899700792352711003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5695f62d7c1a6a4b9be5b93af9799f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Puntaje: 10

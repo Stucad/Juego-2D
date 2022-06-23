@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: -2324901318097895045}
   - component: {fileID: 2574693586588749599}
   - component: {fileID: 8617606594994809625}
+  - component: {fileID: -441352343374388545}
   m_Layer: 0
   m_Name: Venno_1
   m_TagString: enemy
@@ -181,3 +182,16 @@ MonoBehaviour:
   source: {fileID: -7474785127698106801, guid: b33ade955818f824cbf30d23c538a184, type: 3}
   audioFX: {fileID: 8300000, guid: df00d41442996664c8c6ef7173521809, type: 3}
   volumen: 1000
+--- !u!114 &-441352343374388545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1469191131255395809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5695f62d7c1a6a4b9be5b93af9799f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Puntaje: 20

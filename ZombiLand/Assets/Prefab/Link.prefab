@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 6089913228841188740}
   - component: {fileID: 6089913228841188741}
   - component: {fileID: 3452035753947063365}
+  - component: {fileID: -24460154625004546}
   m_Layer: 0
   m_Name: Link
   m_TagString: enemy
@@ -181,3 +182,16 @@ MonoBehaviour:
   source: {fileID: 5194677745548305761, guid: e0afbf5d0e5e01a42b6fc8c702e78296, type: 3}
   audioFX: {fileID: 8300000, guid: 943e16586ffb34b4bac685d3805c7db9, type: 3}
   volumen: 5
+--- !u!114 &-24460154625004546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6089913228841188751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5695f62d7c1a6a4b9be5b93af9799f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Puntaje: 1

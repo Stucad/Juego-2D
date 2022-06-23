@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 2813169020902854384}
   - component: {fileID: 8581361465708902381}
   - component: {fileID: 728528277186188538}
+  - component: {fileID: 2941349258574851160}
   m_Layer: 0
   m_Name: Mata Winni poo_32
   m_TagString: 'Human '
@@ -181,3 +182,16 @@ MonoBehaviour:
   source: {fileID: -947553019139760735, guid: 7b10a395c979a6249b5428a247b95081, type: 3}
   audioFX: {fileID: 8300000, guid: 2db79b092dd016040a6182fc8dc8d79e, type: 3}
   volumen: 1
+--- !u!114 &2941349258574851160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7829010199480882184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5695f62d7c1a6a4b9be5b93af9799f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Puntaje: -100
