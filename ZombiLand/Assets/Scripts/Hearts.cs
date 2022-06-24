@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 
 public class Hearts : MonoBehaviour
@@ -19,7 +20,7 @@ public class Hearts : MonoBehaviour
         {
 
             Destroy(heart[0].gameObject);
-
+            SceneManager.LoadScene("GameOver");
         }
         else if(life < 2)
         {
@@ -36,16 +37,21 @@ public class Hearts : MonoBehaviour
 
 
     }
-    
-    private void OnBecameInvisible()
+
+    private void OnMouseDown()
     {
+        
         if(tag == "Human")
         {
             life--;
-            Destroy(heart[1]);
-
         }
+       
+
+
     }
+   
+        
+    
 
 
     private void OnTriggerEnter2D(Collider2D collision)

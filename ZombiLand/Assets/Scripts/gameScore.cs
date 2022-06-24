@@ -18,7 +18,9 @@ public class gameScore : MonoBehaviour
     }
     void Start()
     {
-        
+
+        Score = 0;
+
     }
 
     // Update is called once per frame
