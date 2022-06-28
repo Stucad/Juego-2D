@@ -12,10 +12,10 @@ GameObject:
   - component: {fileID: 6089913228841188746}
   - component: {fileID: 6089913228841188745}
   - component: {fileID: 6089913228841188744}
-  - component: {fileID: 6089913228841188740}
   - component: {fileID: 6089913228841188741}
   - component: {fileID: 3452035753947063365}
   - component: {fileID: -24460154625004546}
+  - component: {fileID: 773067704066034266}
   m_Layer: 0
   m_Name: Link
   m_TagString: enemy
@@ -122,25 +122,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ccbb7835059e384fbcf5dcd874fcadf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidadMovimiento: 0.5
+  velocidadMovimiento: 1
   puntosMovimiento:
   - {fileID: 4330021253686495040, guid: 627861abfa18473418f9ffcf1a5b9c9f, type: 3}
   - {fileID: 7661048325110304256, guid: 35534b6ed951b9643b97f74c1d5bfedf, type: 3}
   - {fileID: 285312064876650429, guid: 20cb5168043b634478ee44380d651b54, type: 3}
   - {fileID: 6620529344277446441, guid: 00b4e7222376f3840b0104fcdd566a59, type: 3}
   distanciaMinima: 0.2
---- !u!114 &6089913228841188740
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6089913228841188751}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36a0059f9c873eb4793000546a3013fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &6089913228841188741
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -195,3 +183,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Puntaje: 5
+--- !u!114 &773067704066034266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6089913228841188751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36a0059f9c873eb4793000546a3013fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  life: 2

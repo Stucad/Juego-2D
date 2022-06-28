@@ -5,11 +5,19 @@ using UnityEngine;
 public class Matar : MonoBehaviour
 {
 
+    public int life;
     private void OnMouseDown()
     {
 
-        Destroy(gameObject);
-    }
+        life--;
 
+        if(life < 0)
+        {
+            
+            Destroy(gameObject);
+
+        }
+
+    }
 
 }

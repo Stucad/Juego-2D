@@ -13,4 +13,18 @@ public class Scenes : MonoBehaviour
         SceneManager.LoadScene("Juego");
 
     }
+
+    public void EcenaRules()
+    {
+
+        SceneManager.LoadScene("Rules");
+
+    }
+
+    public void EcenaMenu()
+    {
+
+        SceneManager.LoadScene("Menu Inicio");
+
+    }
 }

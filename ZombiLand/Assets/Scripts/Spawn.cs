@@ -14,6 +14,8 @@ public class Spawn : MonoBehaviour
 
     public Transform puntosSpawnY;
     public Transform puntosSpawnY2;
+
+    public float difficultyTime = 0;
     
 
 
@@ -23,8 +25,57 @@ public class Spawn : MonoBehaviour
     void Start()
     {
 
-        InvokeRepeating("SpawnEnemys", timeSpawn, repiteSpawn);
+        StartCoroutine("EnemyDifficulty");
 
+    }
+
+    private void Update()
+    {
+
+        difficultyTime += Time.deltaTime;
+
+        if (difficultyTime > 5 && difficultyTime < 10)
+        {
+
+            repiteSpawn = 2.45f;
+
+        }
+
+        if (difficultyTime > 10 && difficultyTime < 30)
+        {
+
+            repiteSpawn = 2;
+
+        }
+
+        if(difficultyTime > 20 && difficultyTime < 30)
+        {
+
+            repiteSpawn = 1;
+
+        }
+
+        if(difficultyTime > 30 && difficultyTime < 50)
+        {
+
+            repiteSpawn = 0.75f;
+
+        }
+
+        if(difficultyTime > 50)
+        {
+
+            repiteSpawn = 0.25f;
+
+        }
+    }
+
+    IEnumerator EnemyDifficulty()
+    {
+
+        yield return new WaitForSeconds(repiteSpawn);
+        SpawnEnemys();
+        StartCoroutine("EnemyDifficulty");
 
     }
 

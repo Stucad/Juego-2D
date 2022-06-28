@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 8581361465708902381}
   - component: {fileID: 728528277186188538}
   - component: {fileID: 2941349258574851160}
+  - component: {fileID: -6740991350045277126}
   m_Layer: 0
   m_Name: Mata Winni poo_32
   m_TagString: 'Human '
@@ -122,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ccbb7835059e384fbcf5dcd874fcadf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidadMovimiento: 1
+  velocidadMovimiento: 0.8
   puntosMovimiento:
   - {fileID: 4330021253686495040, guid: 627861abfa18473418f9ffcf1a5b9c9f, type: 3}
   - {fileID: 7661048325110304256, guid: 35534b6ed951b9643b97f74c1d5bfedf, type: 3}
@@ -195,3 +196,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Puntaje: 0
+--- !u!114 &-6740991350045277126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7829010199480882184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38372069f490fca4b9ef6ece8dc49953, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

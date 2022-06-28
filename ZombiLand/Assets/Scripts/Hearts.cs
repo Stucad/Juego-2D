@@ -38,17 +38,7 @@ public class Hearts : MonoBehaviour
 
     }
 
-    private void OnMouseDown()
-    {
-        
-        if(tag == "Human")
-        {
-            life--;
-        }
-       
-
-
-    }
+  
    
         
     
