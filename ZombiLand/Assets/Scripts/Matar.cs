@@ -5,18 +5,27 @@ using UnityEngine;
 public class Matar : MonoBehaviour
 {
 
-    public int life;
+    public int vida;
+    public GameObject[] enemigos;
+    public Animator animacion;
     private void OnMouseDown()
     {
 
-        life--;
+        vida--;
 
-        if(life < 0)
+        if(vida <= 0)
         {
-            
-            Destroy(gameObject);
 
+            animacion.SetBool("Explocion", true);
+                
         }
+
+    }
+
+    public void MyOnDestroy()
+    {
+
+        Destroy(gameObject);
 
     }
 

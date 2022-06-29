@@ -184,7 +184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemys:
-  - {fileID: 6089913228841188751, guid: 252f2857518b17d41bb17de80a35c87c, type: 3}
+  - {fileID: 7626422002676831063, guid: 8fca9f70f4c5d5c41b23259c698531a0, type: 3}
   - {fileID: 7829010199480882184, guid: 679b999e79c82bd4a943f02b51e42879, type: 3}
   - {fileID: 1469191131255395809, guid: 20f2d684178f8a348ae44757dfe46b58, type: 3}
   - {fileID: 899700792352711003, guid: cee22e7ea4754ec45b1946a48d47aa6e, type: 3}
@@ -194,6 +194,7 @@ MonoBehaviour:
   puntosSpawnX2: {fileID: 998583414}
   puntosSpawnY: {fileID: 616551564}
   puntosSpawnY2: {fileID: 39849223}
+  difficultyTime: 0
 --- !u!4 &53758816
 Transform:
   m_ObjectHideFlags: 0
