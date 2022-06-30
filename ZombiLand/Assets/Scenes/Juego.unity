@@ -184,10 +184,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemys:
-  - {fileID: 7626422002676831063, guid: 8fca9f70f4c5d5c41b23259c698531a0, type: 3}
+  - {fileID: 8431781316489293111, guid: 8fca9f70f4c5d5c41b23259c698531a0, type: 3}
   - {fileID: 7829010199480882184, guid: 679b999e79c82bd4a943f02b51e42879, type: 3}
-  - {fileID: 1469191131255395809, guid: 20f2d684178f8a348ae44757dfe46b58, type: 3}
-  - {fileID: 899700792352711003, guid: cee22e7ea4754ec45b1946a48d47aa6e, type: 3}
+  - {fileID: 7246109258539826997, guid: 88b5aed784167bd4d951760634c81bd5, type: 3}
+  - {fileID: 5071527673061730030, guid: 97fbb695f4d4b8b43af719d122c3a46a, type: 3}
   timeSpawn: 1
   repiteSpawn: 1
   puntosSpawnX: {fileID: 1354092724}

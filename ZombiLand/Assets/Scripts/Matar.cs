@@ -6,20 +6,13 @@ public class Matar : MonoBehaviour
 {
 
     public int vida;
-    public GameObject[] enemigos;
+    
     public Animator animacion;
     private void OnMouseDown()
-    {
+    { 
 
-        vida--;
-
-        if(vida <= 0)
-        {
-
-            animacion.SetBool("Explocion", true);
-                
-        }
-
+      animacion.SetBool("Muerte", true);         
+       
     }
 
     public void MyOnDestroy()

@@ -12,11 +12,11 @@ GameObject:
   - component: {fileID: 7829010199480882182}
   - component: {fileID: 7829010199480882185}
   - component: {fileID: 4421633454747986915}
-  - component: {fileID: 2813169020902854384}
   - component: {fileID: 8581361465708902381}
   - component: {fileID: 728528277186188538}
   - component: {fileID: 2941349258574851160}
   - component: {fileID: -6740991350045277126}
+  - component: {fileID: 8980263540029015167}
   m_Layer: 0
   m_Name: Mata Winni poo_32
   m_TagString: 'Human '
@@ -130,19 +130,6 @@ MonoBehaviour:
   - {fileID: 285312064876650429, guid: 20cb5168043b634478ee44380d651b54, type: 3}
   - {fileID: 6620529344277446441, guid: 00b4e7222376f3840b0104fcdd566a59, type: 3}
   distanciaMinima: 0
---- !u!114 &2813169020902854384
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7829010199480882184}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36a0059f9c873eb4793000546a3013fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  life: 1
 --- !u!61 &8581361465708902381
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -207,5 +194,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 38372069f490fca4b9ef6ece8dc49953, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8980263540029015167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7829010199480882184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5292d4797150c5d44bf1d7fcb3a83472, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
